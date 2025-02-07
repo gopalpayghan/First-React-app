@@ -22,12 +22,12 @@ const HeroSection = () => {
 
           <div className="brand-icons">
             <img href="#" src="/images/amazon.png" alt="amazon-logo" />
-            <img src="/images/flipkart.png" alt="flipkart-logo" />
+            <img src="./images/flipkart.png" alt="flipkart-logo" />
           </div>
         </div>
       </div>
       <div className="hero-image">
-        <img src="/Images/shoe_image.png" alt="hero-image" />
+        <img src="./Images/shoe_image.png" alt="hero-image" />
       </div>
     </main>
   );
