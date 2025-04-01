@@ -77,7 +77,11 @@ nav ul {
   font-size: 14px;
   margin-bottom: 8px;
 }
+
 .brand-icons {
+  width: 35px;
+  height: 35px;
   display: flex;
   gap: 16px;
+  cursor: pointer;
 }
